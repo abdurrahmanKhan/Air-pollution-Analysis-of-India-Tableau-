@@ -3,4 +3,6 @@ In this project I have used India's air pollution data from 1987-2015 for analys
 
 Each worksheet is explained and in the end there is a final worksheet which allows you to see and coclude solutions through all the changes according to the respective fields provided
 
+Fork and Star the repo then download and just run the cells for visualization.
+
 Tableau Profile link : https://public.tableau.com/shared/K8RBGQMKP?:display_count=yes&:origin=viz_share_link
