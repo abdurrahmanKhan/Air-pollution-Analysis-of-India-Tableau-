@@ -5,4 +5,4 @@ Each worksheet is explained and in the end there is a final worksheet which allo
 
 Fork and Star the repo then download and just run the cells for visualization.
 
-Tableau Profile link : https://public.tableau.com/shared/K8RBGQMKP?:display_count=yes&:origin=viz_share_link
+Tableau Profile link : https://public.tableau.com/profile/abdurrahman8234#!/
